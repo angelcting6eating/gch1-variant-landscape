@@ -16,6 +16,6 @@ sequence = ''.join(line.strip() for line in lines if not line.startswith('>'))
 print(f"\nGCH1 sequence length: {len(sequence)} amino acids")
 print(f"First 30 aa: {sequence[:30]}")
 
-# Clinical significance breakdown
+# Breaking down clinical significance 
 print("\nClinical significance breakdown:")
 print(df['Germline classification'].value_counts())
