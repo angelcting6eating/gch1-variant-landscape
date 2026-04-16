@@ -1,0 +1,38 @@
+mutation,pos,wt_aa,mut_aa,label,Germline classification,Name,Condition(s),blosum62,grantham,delta_charge,delta_hydro
+S223G,223.0,S,G,1,Pathogenic,NM_000161.3(GCH1):c.667A>G (p.Ser223Gly),GTP cyclohydrolase I deficiency with hyperphenylalaninemia,0.0,56,0.0,0.4
+M211I,211.0,M,I,1,Pathogenic,NM_000161.3(GCH1):c.633G>A (p.Met211Ile),GTP cyclohydrolase I deficiency with hyperphenylalaninemia,1.0,10,0.0,2.6
+M211T,211.0,M,T,1,Likely pathogenic,NM_000161.3(GCH1):c.632T>C (p.Met211Thr),GTP cyclohydrolase I deficiency,-1.0,81,0.0,-2.5999999999999996
+M211V,211.0,M,V,1,Likely pathogenic,NM_000161.3(GCH1):c.631A>G (p.Met211Val),Dystonia 5|GTP cyclohydrolase I deficiency,1.0,21,0.0,2.3000000000000003
+V205E,205.0,V,E,1,Pathogenic,NM_000161.3(GCH1):c.614T>A (p.Val205Glu),not provided|Dystonia 5|GTP cyclohydrolase I deficiency|GTP cyclohydrolase I deficiency,-2.0,121,-1.0,-7.7
+G203R,203.0,G,R,1,Pathogenic,NM_000161.3(GCH1):c.607G>C (p.Gly203Arg),Dystonia 5,-2.0,125,1.0,-4.1
+G201E,201.0,G,E,1,Pathogenic,NM_000161.3(GCH1):c.602G>A (p.Gly201Glu),Dystonia 5,-2.0,98,-1.0,-3.1
+G201R,201.0,G,R,1,Pathogenic,NM_000161.3(GCH1):c.601G>C (p.Gly201Arg),Dystonia 5|GTP cyclohydrolase I deficiency,-2.0,125,1.0,-4.1
+P199A,199.0,P,A,1,Pathogenic,NM_000161.3(GCH1):c.595C>G (p.Pro199Ala),"Dystonia, dopa-responsive, with or without hyperphenylalaninemia, autosomal recessive",-1.0,27,0.0,3.4000000000000004
+A196D,196.0,A,D,1,Likely pathogenic,NM_000161.3(GCH1):c.587C>A (p.Ala196Asp),GTP cyclohydrolase I deficiency|Dystonia 5,-2.0,126,-1.0,-5.3
+I193N,193.0,I,N,1,Likely pathogenic,NM_000161.3(GCH1):c.578T>A (p.Ile193Asn),GTP cyclohydrolase I deficiency|Dystonia 5,-3.0,149,0.0,-8.0
+T186I,186.0,T,I,1,Likely pathogenic,NM_000161.3(GCH1):c.557C>T (p.Thr186Ile),not provided,-1.0,89,0.0,5.2
+T186P,186.0,T,P,1,Likely pathogenic,NM_000161.3(GCH1):c.556A>C (p.Thr186Pro),not provided,-1.0,38,0.0,-0.9000000000000001
+R184H,184.0,R,H,1,Pathogenic,NM_000161.3(GCH1):c.551G>A (p.Arg184His),GTP cyclohydrolase I deficiency|Dystonia 5|not provided|GTP cyclohydrolase I deficiency,0.0,29,-0.9,1.2999999999999998
+Q182K,182.0,Q,K,1,Likely pathogenic,NM_000161.3(GCH1):c.544C>A (p.Gln182Lys),Dystonia 5,1.0,53,1.0,-0.3999999999999999
+Q180P,180.0,Q,P,1,Likely pathogenic,NM_000161.3(GCH1):c.539A>C (p.Gln180Pro),not provided,-1.0,76,0.0,1.9
+Q180R,180.0,Q,R,1,Pathogenic/Likely pathogenic,NM_000161.3(GCH1):c.539A>G (p.Gln180Arg),not provided|Dystonia 5|GTP cyclohydrolase I deficiency,1.0,43,1.0,-1.0
+L163R,163.0,L,R,1,Likely pathogenic,NM_000161.3(GCH1):c.488T>G (p.Leu163Arg),not provided,-2.0,102,1.0,-8.3
+P147L,147.0,P,L,1,Likely pathogenic,NM_000161.3(GCH1):c.440C>T (p.Pro147Leu),GTP cyclohydrolase I deficiency|Dystonia 5,-3.0,98,0.0,5.4
+H144P,144.0,H,P,1,Pathogenic,NM_000161.3(GCH1):c.431A>C (p.His144Pro),Dystonia 5,-2.0,77,-0.1,1.6
+I135K,135.0,I,K,1,Pathogenic,NM_000161.3(GCH1):c.404T>A (p.Ile135Lys),Dystonia 5,-3.0,102,1.0,-8.4
+D134V,134.0,D,V,1,Pathogenic,NM_000161.3(GCH1):c.401A>T (p.Asp134Val),Dystonia 5,-3.0,152,1.0,7.7
+A98V,98.0,A,V,1,Pathogenic,NM_000161.3(GCH1):c.293C>T (p.Ala98Val),Dystonia 5|GTP cyclohydrolase I deficiency,0.0,64,0.0,2.4000000000000004
+T94M,94.0,T,M,1,Likely pathogenic,NM_000161.3(GCH1):c.281C>T (p.Thr94Met),Dystonia 5|Dystonia 5|GTP cyclohydrolase I deficiency,-1.0,81,0.0,2.5999999999999996
+T94K,94.0,T,K,1,Likely pathogenic,NM_000161.3(GCH1):c.281C>A (p.Thr94Lys),Dystonia 5|GTP cyclohydrolase I deficiency,-1.0,78,1.0,-3.2
+L91Q,91.0,L,Q,1,Likely pathogenic,NM_000161.3(GCH1):c.272T>A (p.Leu91Gln),Dystonia 5|GTP cyclohydrolase I deficiency,-2.0,113,0.0,-7.3
+R88L,88.0,R,L,1,Likely pathogenic,NM_000161.3(GCH1):c.263G>T (p.Arg88Leu),not provided|Abnormal central motor function,-2.0,102,-1.0,8.3
+R88G,88.0,R,G,1,Likely pathogenic,NM_000161.3(GCH1):c.262C>G (p.Arg88Gly),Dystonia 5,-2.0,125,-1.0,4.1
+R88W,88.0,R,W,1,Pathogenic,NM_000161.3(GCH1):c.262C>T (p.Arg88Trp),Dystonia 5,-3.0,101,-1.0,3.6
+E84G,84.0,E,G,1,Likely pathogenic,NM_000161.3(GCH1):c.251A>G (p.Glu84Gly),GTP cyclohydrolase I deficiency|Dystonia 5,-2.0,98,1.0,3.1
+L71P,71.0,L,P,1,Likely pathogenic,NM_000161.3(GCH1):c.212T>C (p.Leu71Pro),GTP cyclohydrolase I deficiency|Dystonia 5,-3.0,98,0.0,-5.4
+M1I,1.0,M,I,1,Pathogenic,NM_000161.3(GCH1):c.3G>C (p.Met1Ile),Dystonia 5,1.0,10,0.0,2.6
+M1T,1.0,M,T,1,Likely pathogenic,NM_000161.3(GCH1):c.2T>C (p.Met1Thr),not provided,-1.0,81,0.0,-2.5999999999999996
+M1L,1.0,M,L,1,Pathogenic,NM_000161.3(GCH1):c.1A>C (p.Met1Leu),GTP cyclohydrolase I deficiency|Dystonia 5,2.0,15,0.0,1.9
+M1V,1.0,M,V,1,Pathogenic,NM_000161.3(GCH1):c.1A>G (p.Met1Val),GTP cyclohydrolase I deficiency|Dystonia 5|not provided,1.0,21,0.0,2.3000000000000003
+P49A,49.0,P,A,0,Likely benign,NM_000161.3(GCH1):c.145C>G (p.Pro49Ala),GTP cyclohydrolase I deficiency|Dystonia 5,-1.0,27,0.0,3.4000000000000004
+R198Q,198.0,R,Q,-1,Uncertain significance,NM_000161.3(GCH1):c.593G>A (p.Arg198Gln),GTP cyclohydrolase I deficiency,1.0,43,-1.0,1.0
